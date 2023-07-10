@@ -36,5 +36,6 @@ Default output format: "json"
 
 Agora basta rodar a aplicação:
 ```console
+python3 config/db.py
 python3 server.py
 ```
